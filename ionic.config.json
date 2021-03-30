@@ -1,0 +1,8 @@
+{
+  "name": "Sokoban",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular",
+  "id": "de329436"
+}
